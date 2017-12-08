@@ -42,5 +42,10 @@ public class App extends Application {
             Log.e("zxy", "throwMethodName:" + throwMethodName);
             Log.e("zxy", "throwLineNumber:" + throwLineNumber);
         }
+
+        @Override
+        public void throwable(Throwable throwable) {
+
+        }
     }
 }

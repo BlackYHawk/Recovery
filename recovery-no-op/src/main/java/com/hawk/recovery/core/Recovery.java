@@ -1,9 +1,9 @@
-package com.zxy.recovery.core;
+package com.hawk.recovery.core;
 
 import android.app.Activity;
 import android.content.Context;
 
-import com.zxy.recovery.callback.RecoveryCallback;
+import com.hawk.recovery.callback.RecoveryCallback;
 
 /**
  * Created by zhengxiaoyong on 16/8/26.
